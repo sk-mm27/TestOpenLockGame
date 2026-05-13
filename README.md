@@ -1,4 +1,5 @@
-<img width="586" height="543" alt="2026-05-13_19-56-22" src="https://github.com/user-attachments/assets/a70e5977-e691-44f6-92f2-2875cda0b762" />
+<img width="586" height="541" alt="2026-05-13_20-57-34" src="https://github.com/user-attachments/assets/4a6a88d5-de84-4d52-a392-5cac4d4376a1" />
+
 
 ## **Описание:**
 Тестовая реализация мини игры по взлому замков из The Elder Scrols 4 Oblivion.
